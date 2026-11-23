@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "sku": "AUTO-STOCK-SKU-1",
+      "name": "Grains – 100 KG",
+      "unit": "piece",
+      "quantity": 20,
+      "unitPrice": "₹105.51",
+      "netPrice": "₹2110.20",
+      "amount": "₹2490.04",
+      "taxRate": "18%",
+      "taxAmount": "₹379.84",
+      "totalAmount": "₹2608.04",
+      "sellerName": "WholeCart Direct"
+    },
+    {
+      "sku": "AUTO-STOCK-SKU-2",
+      "name": "Beverages – 100 L",
+      "unit": "piece",
+      "quantity": 20,
+      "unitPrice": "₹105.51",
+      "netPrice": "₹2110.20",
+      "amount": "₹2490.04",
+      "taxRate": "18%",
+      "taxAmount": "₹379.84",
+      "totalAmount": "₹2608.04",
+      "sellerName": "FreshFarm Foods"
+    }
+  ],
+  "buyerName": "Spice Route Kitchen",
+  "settings": {
+    "cutoffTime": "10:00",
+    "cancellationWindowMinutes": 5,
+    "ordersPerSlot": 500,
+    "minimumOrder": 1500,
+    "freeDeliveryFrom": 3000,
+    "deliveryFee": 100
+  },
+  "delivery": {
+    "dateOffsetDays": 2,
+    "slotStart": "11:00"
+  }
+}

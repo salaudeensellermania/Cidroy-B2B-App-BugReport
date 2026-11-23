@@ -1,0 +1,19 @@
+{
+  "name": "automation-1-wholecart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:tc1": "playwright test -g \"TC 1\" --project=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6",
+    "dotenv": "^17.2.3",
+    "exceljs": "^4.4.0"
+  }
+}
