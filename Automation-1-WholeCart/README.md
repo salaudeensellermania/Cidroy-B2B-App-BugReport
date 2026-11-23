@@ -1,4 +1,4 @@
-# WholeCart E2E Automation
+# WholeCart E2E Order Flow Automation
 
 Playwright end-to-end tests for the WholeCart application, written in TypeScript. The test setup authenticates buyer, seller, and operator accounts, then uploads seller product data before Chromium tests run.
 
